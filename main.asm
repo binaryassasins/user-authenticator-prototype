@@ -1,6 +1,6 @@
 # Author: Syafiq Asyraf
 # This program illustrates how authentication of a user is being done by comparing input of the user with several samples provided
-# (usernames defined in database) byte by byte
+# (usernames defined in database) byte by byte using MIPS architecture
 
 .data 
 	welcome:		.asciiz "Welcome! This is an authentication process\n"
