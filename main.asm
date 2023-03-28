@@ -8,9 +8,9 @@
 	username:		.asciiz "Please enter a valid username (less than 10 characters): "
 	
 	# Define three usernames 
-	user1:			.asciiz "Syafiq"
-	user2:			.asciiz "Abu"
-	user3:			.asciiz "Ali"
+	user1:			.asciiz "James"
+	user2:			.asciiz "John"
+	user3:			.asciiz "Maria"
 	# Store all three usernames in an array
 	database:		.word user1, user2, user3
 	
