@@ -1,5 +1,4 @@
-# Lab 1 exercise
-# Author: Mohamad Syafiq Asyraf Bin Bharudin @ Fiq
+# Author: Syafiq Asyraf
 # This program illustrates how authentication of a user is being done by comparing input of the user with several samples provided
 # (usernames defined in database) byte by byte
 
